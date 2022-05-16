@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "/tvllaunchpad/static/js/main.c1650ee8.chunk.js",
+    "main.js.map": "/tvllaunchpad/static/js/main.c1650ee8.chunk.js.map",
+    "runtime-main.js": "/tvllaunchpad/static/js/runtime-main.673d5900.js",
+    "runtime-main.js.map": "/tvllaunchpad/static/js/runtime-main.673d5900.js.map",
+    "static/css/2.6e4fc365.chunk.css": "/tvllaunchpad/static/css/2.6e4fc365.chunk.css",
+    "static/js/2.91adbc97.chunk.js": "/tvllaunchpad/static/js/2.91adbc97.chunk.js",
+    "static/js/2.91adbc97.chunk.js.map": "/tvllaunchpad/static/js/2.91adbc97.chunk.js.map",
+    "static/js/3.94046416.chunk.js": "/tvllaunchpad/static/js/3.94046416.chunk.js",
+    "static/js/3.94046416.chunk.js.map": "/tvllaunchpad/static/js/3.94046416.chunk.js.map",
+    "static/js/4.2559ef0f.chunk.js": "/tvllaunchpad/static/js/4.2559ef0f.chunk.js",
+    "static/js/4.2559ef0f.chunk.js.map": "/tvllaunchpad/static/js/4.2559ef0f.chunk.js.map",
+    "static/js/5.1ac971cc.chunk.js": "/tvllaunchpad/static/js/5.1ac971cc.chunk.js",
+    "static/js/5.1ac971cc.chunk.js.map": "/tvllaunchpad/static/js/5.1ac971cc.chunk.js.map",
+    "static/js/6.665f7203.chunk.js": "/tvllaunchpad/static/js/6.665f7203.chunk.js",
+    "static/js/6.665f7203.chunk.js.map": "/tvllaunchpad/static/js/6.665f7203.chunk.js.map",
+    "static/js/7.b8ab51c6.chunk.js": "/tvllaunchpad/static/js/7.b8ab51c6.chunk.js",
+    "static/js/7.b8ab51c6.chunk.js.map": "/tvllaunchpad/static/js/7.b8ab51c6.chunk.js.map",
+    "static/js/8.a780371d.chunk.js": "/tvllaunchpad/static/js/8.a780371d.chunk.js",
+    "static/js/8.a780371d.chunk.js.map": "/tvllaunchpad/static/js/8.a780371d.chunk.js.map",
+    "index.html": "/tvllaunchpad/index.html",
+    "static/css/2.6e4fc365.chunk.css.map": "/tvllaunchpad/static/css/2.6e4fc365.chunk.css.map",
+    "static/js/2.91adbc97.chunk.js.LICENSE.txt": "/tvllaunchpad/static/js/2.91adbc97.chunk.js.LICENSE.txt",
+    "static/js/3.94046416.chunk.js.LICENSE.txt": "/tvllaunchpad/static/js/3.94046416.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.673d5900.js",
+    "static/css/2.6e4fc365.chunk.css",
+    "static/js/2.91adbc97.chunk.js",
+    "static/js/main.c1650ee8.chunk.js"
+  ]
+}
