@@ -4218,7 +4218,7 @@
                 ye = Object(de.c)(Y || (Y = Object(ue.a)(["\n  * {\n    font-family: 'Russo One', sans-serif;\n  }\n  body {\n    background-color: ", ";\n\n    img {\n      height: auto;\n      max-width: 100%;\n    }\n  }\n"])), (function(e) { return e.theme.colors.background })),
                 me = n(101),
                 fe = n(140),
-                he = function(e) { return [{ label: e("Home"), icon: "HomeIcon", href: "/swap" }, { label: e("Swap"), icon: "TradeIcon", href: "/swap" }, { label: e("More"), icon: "MoreIcon", items: [{ label: e("MasterMind Games"), href: "https://mastermindgames.io/" }, { label: e("PancakeSwap"), href: "https://pancakeswap.finance/swap?outputCurrency=0x6292F56ccE9FB34e21010a1A237a4D908a6474eA" }, { label: e("CoinMarketCap"), href: "https://coinmarketcap.com/" }, { label: e("WhitePaper"), href: "#" }] }] },
+                he = function(e) { return [{ label: e("Home"), icon: "HomeIcon", href: "/swap" }, { label: e("Swap"), icon: "TradeIcon", href: "/swap" }, { label: e("More"), icon: "MoreIcon", items: [{ label: e("MasterMind Games"), href: "https://mastermindgames.io/" }, { label: e("PancakeSwap"), href: "https://pancakeswap.finance/swap?outputCurrency=0x6292F56ccE9FB34e21010a1A237a4D908a6474eA" }, { label: e("CoinMarketCap"), href: "https://coinmarketcap.com/" }, { label: e("WhitePaper"), href: "https://mastermindgames.io/wp-content/uploads/2022/04/wp-1650870116581.pdf" }] }] },
                 ke = n(80),
                 Te = n(171),
                 ge = n(111),
