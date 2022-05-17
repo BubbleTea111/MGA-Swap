@@ -82,7 +82,7 @@
                 N = function() {
                     var e = Object(H.b)().t,
                         t = Object(T.c)().account;
-                    return Object(h.jsx)(h.Fragment, { children: Object(h.jsx)(m.H, { position: "relative", flexDirection: ["column-reverse", null, null, "row"], alignItems: ["flex-end", null, null, "center"], justifyContent: "center", id: "homepage-hero", children: Object(h.jsxs)(m.H, { flex: "1", flexDirection: "column", children: [Object(h.jsx)(m.J, { scale: "xxl", color: "#f80102", mb: "24px", children: e("MasterMind Games") }), Object(h.jsx)(m.J, { scale: "md", mb: "24px", children: e("Trade, earn, and win crypto on the most popular decentralized platform in the galaxy.") }), Object(h.jsxs)(m.H, { children: [!t && Object(h.jsx)(M.a, { mr: "8px" }), Object(h.jsx)(m.O, { mr: "16px", href: "/swap", children: Object(h.jsx)(m.m, { variant: t ? "primary" : "secondary", children: e("Trade Now") }) })] })] }) }) })
+                    return Object(h.jsx)(h.Fragment, { children: Object(h.jsx)(m.H, { position: "relative", flexDirection: ["column-reverse", null, null, "row"], alignItems: ["flex-end", null, null, "center"], justifyContent: "center", id: "homepage-hero", children: Object(h.jsxs)(m.H, { flex: "1", flexDirection: "column", children: [Object(h.jsx)(m.J, { scale: "xxl", color: "#f80102", mb: "24px", children: e("MASTERMIND GAMES") }), Object(h.jsx)(m.J, { scale: "md", mb: "24px", children: e("Trade, play, and earn crypto on the most popular decentralized gaming platform in the World.") }), Object(h.jsxs)(m.H, { children: [!t && Object(h.jsx)(M.a, { mr: "8px" }), Object(h.jsx)(m.O, { mr: "16px", href: "/swap", children: Object(h.jsx)(m.m, { variant: t ? "primary" : "secondary", children: e("Trade Now") }) })] })] }) }) })
                 },
                 L = n(11),
                 B = n(3),
@@ -124,12 +124,12 @@
                             }), [r]), n
                         }(),
                         n = (Object(D.a)().theme, t ? Object(z.b)(t.MGT) : "-"),
-                        r = (Object(z.b)(30841921), Object(z.b)(2751624), e("And those users are now entrusting the platform with over $%MGT% in funds.", { MGT: n }).split(n)),
+                        r = (Object(z.b)(30841921), Object(z.b)(2751624), e("Powered by $MGX, the gateway to the marketplace and in-game purchases. $%MGT% ", { MGT: n }).split(n)),
                         i = Object(L.a)(r, 2),
                         a = i[0],
                         o = i[1];
                     m.C, m.nb, m.s;
-                    return Object(h.jsxs)(m.H, { justifyContent: "center", alignItems: "center", flexDirection: "column", children: [Object(h.jsx)(m.J, { textAlign: "center", scale: "xl", children: e("Used by millions.") }), Object(h.jsx)(m.J, { textAlign: "center", scale: "xl", mb: "32px", children: e("Trusted with billions.") }), Object(h.jsx)(m.pb, { textAlign: "center", color: "textSubtle", children: e("MaterMind Games has the most users of any decentralized platform, ever.") }), Object(h.jsx)(m.H, { flexWrap: "wrap", children: Object(h.jsxs)(m.pb, { display: "inline", textAlign: "center", color: "textSubtle", mb: "20px", children: [a, Object(h.jsx)(h.Fragment, { children: t ? Object(h.jsx)(h.Fragment, { children: n }) : Object(h.jsx)(m.lb, { display: "inline-block", height: 16, width: 70, mt: "2px" }) }), o] }) }), Object(h.jsx)(m.pb, { textAlign: "center", color: "textSubtle", bold: !0, mb: "32px", children: e("Will you join them?") })] })
+                    return Object(h.jsxs)(m.H, { justifyContent: "center", alignItems: "center", flexDirection: "column", children: [Object(h.jsx)(m.J, { textAlign: "center", scale: "xl", children: e("") }), Object(h.jsx)(m.J, { textAlign: "center", scale: "xl", mb: "32px", children: e("MASTER EX SWAP") }), Object(h.jsx)(m.pb, { textAlign: "center", color: "textSubtle", children: e("Mastermind Games in-house swap and an ever growing games hosting ecosystem. ") }), Object(h.jsx)(m.H, { flexWrap: "wrap", children: Object(h.jsxs)(m.pb, { display: "inline", textAlign: "center", color: "textSubtle", mb: "20px", children: [a, Object(h.jsx)(h.Fragment, { children: t ? Object(h.jsx)(h.Fragment, { children: n }) : Object(h.jsx)(m.lb, { display: "inline-block", height: 16, width: 70, mt: "2px" }) }), o] }) }), Object(h.jsx)(m.pb, { textAlign: "center", color: "textSubtle", bold: !0, mb: "32px", children: e("Mastermind is not only changing the game, we're changing YOUR game!") })] })
                 },
                 _ = n(232);
 
