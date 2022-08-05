@@ -4218,7 +4218,7 @@
                 ye = Object(de.c)(Y || (Y = Object(ue.a)(["\n  * {\n    font-family: 'Russo One', sans-serif;\n  }\n  body {\n    background-color: ", ";\n\n    img {\n      height: auto;\n      max-width: 100%;\n    }\n  }\n"])), (function(e) { return e.theme.colors.background })),
                 me = n(101),
                 fe = n(140),
-                he = function(e) { return [{ label: e("Home"), icon: "HomeIcon", href: "/swap" }, { label: e("Swap"), icon: "TradeIcon", href: "/swap" }, { label: e("More"), icon: "MoreIcon", items: [{ label: e("MasterMind Games"), href: "https://mastermindgames.io/2022/04/25/masterplan/" }, { label: e("CoinMarketCap"), href: "https://coinmarketcap.com/" }, { label: e("WhitePaper"), href: "https://mastermindgames.io/wp-content/uploads/2022/04/wp-1650870116581.pdf" }] }] },
+                he = function(e) { return [{ label: e("Home"), icon: "HomeIcon", href: "/swap" }, { label: e("Swap"), icon: "TradeIcon", href: "/swap" }, { label: e("More"), icon: "MoreIcon", items: [{ label: e("MasterMind Games"), href: "https://mastermindgames.io/2022/04/25/masterplan/" }, { label: e("CoinMarketCap"), href: "https://coinmarketcap.com/" }, { label: e("WhitePaper"), href: "https://mastermindgames.io/wp-content/uploads/2022/08/wp-1659501345554.pdf" }] }] },
                 ke = n(80),
                 Te = n(171),
                 ge = n(111),
