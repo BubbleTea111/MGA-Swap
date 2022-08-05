@@ -124,7 +124,7 @@
                             }), [r]), n
                         }(),
                         n = (Object(D.a)().theme, t ? Object(z.b)(t.MGT) : "-"),
-                        r = (Object(z.b)(30841921), Object(z.b)(2751624), e("Powered by $MGX, the gateway to the marketplace and in-game purchases. $%MGT% ", { MGT: n }).split(n)),
+                        r = (Object(z.b)(30841921), Object(z.b)(2751624), e("Powered by $MGA, the gateway to the marketplace and in-game purchases.", { MGT: n }).split(n)),
                         i = Object(L.a)(r, 2),
                         a = i[0],
                         o = i[1];
